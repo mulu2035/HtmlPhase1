@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+image {
+  min-width: 100;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  display: block;
+  background-color: blue;
+  width: 960px;
+  height: 100px;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+}
+.last {
+  width: 307px;
+  height: 307px;
+}
+.more {
+  display: inline;
+}
+.three {
+  display: flex;
+  top: 100px;
+  left: 200px;
+}
+.red {
+  background-color: maroon;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: white;
+  padding: 100px;
+  font-size: 45px;
+  text-align: center;
+  width: 100%;
+  height: 100;
+}
+.three {
+  position: relative;
+}
+.first {
+  width: 307px;
+  height: 307px;
+}
+.puppy {
+  max-width: 31%;
+  max-height: 307px;
+}
+.banner {
+  margin-bottom: 81px;
+  widows: 1196px;
+  height: 499;
+}
+.banner image > img {
+  width: 100%;
+}
+.three {
+  margin-top: 84px;
+  margin-right: 112px;
+  margin-left: 121;
+}
+/*
+footer {
+  background-color: blue;
+  width: 1200;
+  height: 272;
+  text-align: center;
+  color: white;
+}*/
+footer {
+  background-color: #085070;
+  padding: 50px 0 150px;
+  text-align: center;
+}
+.credit {
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.main-title {
+  padding-top: 16px;
+}
+.third {
+  margin-top: 182px;
+  margin-bottom: 66px;
+  margin-left: 121px;
+  margin-right: 112px;
+}
+.more {
+  text-align: center;
+  margin-top: 63px;
+  margin-bottom: 60px;
+}
+.four {
+  display: flex;
+}

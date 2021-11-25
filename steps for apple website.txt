@@ -1,0 +1,15 @@
+ <div class="outer-wrapper">
+     <header ID="heder">
+          <div class="internal-wrapper">
+                my first page
+                 my scond page 
+             </div>
+        <section>
+          div1
+           div2
+            </section>
+           </header>
+ </div>
+        
+
+
